@@ -1,6 +1,6 @@
 # Consigliere
 
-Consigliere is a Proof of Concept enabling users that their organization is using Office 365 and Exchange quickly book meeting rooms.
+Consigliere enables users in organizations that are using Office 365 and Exchange to quickly book meeting rooms.
 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Tom_Hagen.jpg/220px-Tom_Hagen.jpg" align="right" />
 
@@ -9,9 +9,8 @@ Consigliere is a Proof of Concept enabling users that their organization is usin
 * [x] Present the initial PoC to a group of people
 * [ ] Add integration tests
 * [ ] Refactor the codebase using TDD
-* [ ] Implement the Slack application strategy (user interface)
-* [ ] Present the new interface to people
-* [ ] Complete the documentations and deployment strategy
+* [ ] Implement the Slack application strategy
+* [ ] Complete the documentations and deployment pipelines
 
 ## Getting started
 
@@ -34,4 +33,4 @@ After spinning up the sandbox, follow these steps:
 7. Modify the list of rooms in `src/config/rooms.ts` file accordingly.
 
 ## License
-Do whatever the f**k you want to do with it.
+Do whatever the f*** you want to do with it.
